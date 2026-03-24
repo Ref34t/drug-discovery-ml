@@ -1,0 +1,12 @@
+[project]
+name = "drug-discovery-ml"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.13"
+dependencies = [
+    "jupyter>=1.1.1",
+    "matplotlib>=3.10.8",
+    "pandas>=3.0.1",
+    "rdkit>=2025.9.6",
+    "scikit-learn>=1.8.0",
+]
